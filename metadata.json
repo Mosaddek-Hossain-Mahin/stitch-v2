@@ -1,0 +1,6 @@
+{
+  "name": "Stitch BD — Graded Patterns & Dhaka Atelier",
+  "description": "Multi-region commerce storefront for graded digital sewing patterns with secure S3 delivery and made-to-order Dhaka atelier garments in heritage Bangladeshi textiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
